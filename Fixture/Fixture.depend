@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1669588293 source:f:\tecnicatura\programacion 2\arboles\fixture\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<time.h>
+	<windows.h>
+
